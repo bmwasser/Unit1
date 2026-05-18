@@ -1,0 +1,125 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Fermat",
+            "request": "launch",
+            "mainClass": "Fermat",
+            "projectName": "Unit1_bf837fee"
+        },
+        {
+            "type": "java",
+            "name": "ReturnValue",
+            "request": "launch",
+            "mainClass": "ReturnValue",
+            "projectName": "Unit1_bf837fee"
+        },
+        {
+            "type": "java",
+            "name": "Exercise4_1",
+            "request": "launch",
+            "mainClass": "Exercise4_1",
+            "projectName": "Unit1_bf837fee"
+        },
+        {
+            "type": "java",
+            "name": "CurrencyRunner",
+            "request": "launch",
+            "mainClass": "CurrencyRunner",
+            "console": "externalTerminal",
+            "projectName": "Unit1_bf837fee"
+        },
+        {
+            "type": "java",
+            "name": "Receipt",
+            "request": "launch",
+            "mainClass": "Receipt",
+            "console": "externalTerminal",
+            "projectName": "Unit1_bf837fee"
+        },
+        {
+            "type": "java",
+            "name": "FormatExamples",
+            "request": "launch",
+            "mainClass": "FormatExamples",
+            "projectName": "Unit1_bf837fee"
+        },
+        {
+            "type": "java",
+            "name": "Exercise_3_3",
+            "request": "launch",
+            "mainClass": "Exercise_3_3",
+            "console": "externalTerminal",
+            "projectName": "Unit1_bf837fee"
+        },
+        {
+            "type": "java",
+            "name": "Exercise_3",
+            "request": "launch",
+            "mainClass": "Exercise_3",
+            "console": "externalTerminal",
+            "projectName": "Unit1_bf837fee"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "Unit1_bf837fee"
+        },
+        {
+            "type": "java",
+            "name": "UnitsConverter",
+            "request": "launch",
+            "mainClass": "UnitsConverter",
+            "console": "externalTerminal",
+            "projectName": "Unit1_bf837fee"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Unit1_bf837fee"
+        },
+        {
+            "type": "java",
+            "name": "Date",
+            "request": "launch",
+            "mainClass": "Date",
+            "projectName": "Unit1_bf837fee"
+        },
+        {
+            "type": "java",
+            "name": "Echo",
+            "request": "launch",
+            "mainClass": "Echo",
+            "console": "externalTerminal",
+            "projectName": "Unit1_bf837fee"
+        },
+        {
+            "type": "java",
+            "name": "FrameRunner",
+            "request": "launch",
+            "mainClass": "FrameRunner",
+            "projectName": "Unit1_bf837fee"
+        },
+        {
+            "type": "java",
+            "name": "Time",
+            "request": "launch",
+            "mainClass": "Time",
+            "projectName": "Unit1_bf837fee"
+        }
+    ]
+}
